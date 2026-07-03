@@ -191,17 +191,12 @@ aws-secure-vpc-infrastructure/
 │   └── architecture-diagram.png
 │
 ├── screenshots/
-│   ├── 01-custom-vpc.png
-│   ├── 02-public-private-subnets.png
-│   ├── 03-route-tables.png
-│   ├── 04-internet-gateway.png
-│   ├── 05-security-groups.png
-│   ├── 06-ec2-instance.png
-│   ├── 07-cloudtrail-enabled.png
-│   ├── 08-cloudtrail-events.png
-│   ├── 09-sns-topic.png
-│   ├── 10-email-subscription.png
-│   └── 11-alert-notification.png
+│   ├── 01-VPCCreation.png
+│   ├── 02-EC2LaunchInVPC.png
+│   ├── 03-ConfigureRouteTables.png
+│   ├── 04-EnableCloudTrail.png
+│   ├── 05-SNSSetUp.png
+│   ├── 06-CloudtrailOutput.png
 │
 
 
